@@ -1,0 +1,17 @@
+.hero-image{
+height: 45vh;
+}
+
+.margin-border{
+    margin:20px;
+    border: 2px solid;
+    border-color: black;
+    box-shadow: 5px 10px
+}
+
+.box-shadow{
+    border: 2px solid;
+    padding: 10px;
+    box-shadow: 5px 10px
+}
+
